@@ -181,14 +181,11 @@ A recent TypeScript project focused on creating a clean web presence and strengt
 
 ## GitHub Analytics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rayankhan2003&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Rayan Khan GitHub statistics" />
+
   <img height="165" src="https://streak-stats.demolab.com?user=rayankhan2003&theme=tokyonight&hide_border=true" alt="Rayan Khan contribution streak" />
 </p>
 
 
-
----
 
 ---
 

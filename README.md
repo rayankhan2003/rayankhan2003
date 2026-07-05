@@ -186,17 +186,9 @@ A recent TypeScript project focused on creating a clean web presence and strengt
   <img height="165" src="https://streak-stats.demolab.com?user=rayankhan2003&theme=tokyonight&hide_border=true" alt="Rayan Khan contribution streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayankhan2003&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages used by Rayan Khan" />
-</p>
+
 
 ---
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rayankhan2003&theme=discord&no-frame=true&no-bg=true&margin-w=10" alt="GitHub trophies" />
-</p>
 
 ---
 
